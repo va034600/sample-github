@@ -11,8 +11,4 @@ public class MessageUtilityTest {
 	public void testGetMessage_01() throws IOException {
 		assertEquals("abc", MessageUtility.getMessage());
 	}
-	@Test
-	public void testGetMessage_02() throws IOException {
-		assertEquals("abcd", MessageUtility.getMessage());
-	}
 }
