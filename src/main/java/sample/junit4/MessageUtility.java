@@ -4,9 +4,9 @@ public class MessageUtility {
 	private MessageUtility() {
 	}
 
-	//f
+	//f-g
 	public static final String getMessage() {
-		//b-c-d-f
-		return "abc2-b-c-d-f";
+		//b-c-d-f-g
+		return "abc2-b-c-d-f-g";
 	}
 }
