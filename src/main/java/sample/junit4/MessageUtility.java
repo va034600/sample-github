@@ -5,7 +5,7 @@ public class MessageUtility {
 	}
 
 	public static final String getMessage() {
-		//b
-		return "abc2-b";
+		//b-c
+		return "abc2-b-c";
 	}
 }
