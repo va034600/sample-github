@@ -4,9 +4,9 @@ public class MessageUtility {
 	private MessageUtility() {
 	}
 
-	//4
+	//6
 	public static final String getMessage() {
-		//4
-		return "abc4";
+		//6
+		return "abc6-a";
 	}
 }
