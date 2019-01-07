@@ -4,4 +4,4 @@
 
 - aaab
 - cde
-- ok
+- o
