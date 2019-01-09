@@ -9,6 +9,6 @@ import org.junit.Test;
 public class MessageUtilityTest {
 	@Test
 	public void testGetMessage_01() throws IOException {
-		assertEquals("abc", MessageUtility.getMessage());
+		assertEquals("abc7-a", MessageUtility.getMessage());
 	}
 }
